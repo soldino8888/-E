@@ -1,0 +1,114 @@
+*{
+margin: 0;
+padding: 0;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.logo{
+    padding: 0;
+    margin: 0;
+    background-image: url("fon1.png");
+width: auto;
+height: 565px;
+}
+.probel1{
+width: auto;
+height: 167px;
+}
+h1{
+font-size: 54.900px;
+text-align: center;
+}
+.probel2{
+width: auto;
+height: 98px;
+}
+.p1{
+    font-size: 27.738px;
+    text-align: center;
+}
+.probel3{
+    width: auto;
+    height: 131px;
+}
+.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.probel4{
+width: auto;
+height: 15px;
+}
+.p2{
+text-align: center;
+color: red;
+font-size: 31.300;
+}
+.probel5{
+    color: white;
+font-size: 55px;
+}
+.p3{
+text-align: center;
+font-size: 17.3333px;
+}
+.probel6{
+font-size: 198px;
+}
+.img1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.probel7{
+font-size: 211px;
+}
+footer{
+width: auto;
+height: 202px;
+background-color: brown;
+}
+.p4{
+    text-align: center;
+font-size: 45px;
+}
+.probel9{
+    color: brown;
+font-size: 43px;
+}
+.p5{
+    text-align:center ;
+font-size: 21px;
+}
+a{
+    color: #000;
+    text-decoration: none
+}
+nav{
+    
+    text-decoration: none
+}
+button{
+width: auto;
+height: 30.075px;
+}
+.b1{
+text-align: right;
+}
+.logo1{
+    width: auto;
+    height: 510px;
+    background-image: url("fon6.png");
+}
+.logo2{
+    width: auto;
+    height: 510px;
+    background-image: url("fon6.png");
+}
+.probel10{
+    color: white;
+font-size: 227px;
+}
